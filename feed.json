@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rook Light Industries",
+    "description": "",
+    "home_page_url": "https://rooklightindustries.github.io/shop",
+    "feed_url": "https://rooklightindustries.github.io/shop/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RLI"
+    },
+    "items": [
+        {
+            "id": "https://rooklightindustries.github.io/shop/rs-cnc32.html",
+            "url": "https://rooklightindustries.github.io/shop/rs-cnc32.html",
+            "title": "RS-CNC32",
+            "summary": "The RS-CNC32 keeps the same frame as the RS-CNC, this low-cost frame has been validated successfully by makers and allows to machining wood, plastics, plexiglass, composites, aluminum. The big novelty this year is the new electronics with GRBL 32bits Board Kit which is a complete&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-2-1.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-2-1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-1.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-3-1.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-3-1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-5-1.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/4/gallery/tutorscnc-5-1-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div>\n<hr>\n<p>The RS-CNC32 keeps the same frame as the RS-CNC, this low-cost frame has been validated successfully by makers and allows to machining wood, plastics, plexiglass, composites, aluminum.</p>\n<p><span class=\"\" title=\"\">The big novelty this year is the new electronics with GRBL 32bits Board Kit which is a complete standalone solution, powerful, accurate, reliable, easy to use and to implement thanks to the detailed tutorials, as well adapted for beginners as</span> <span class=\"\" title=\"\">for experienced, and cheaper than old 8-bit system !</span></p>\n<p><a href=\"https://trolley.link/p/KN89973\"><img class=\"post__image\" src=\"https://rooklightindustries.github.io/shop/media/posts/4/button_checkout-now.png\" width=\"344\" height=\"66\"></a></p>",
+            "author": {
+                "name": "RLI"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-24T17:08:28-04:00",
+            "date_modified": "2020-03-24T18:01:56-04:00"
+        },
+        {
+            "id": "https://rooklightindustries.github.io/shop/cnc.html",
+            "url": "https://rooklightindustries.github.io/shop/cnc.html",
+            "title": "CNC",
+            "summary": "RS-CNC32",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/3/rscnc32.jpg\" width=\"400\" height=\"547\">\n<figcaption >\n<h3 id=\"mcetoc_1e475tpf80\"><a href=\"https://rooklightindustries.github.io/shop/rs-cnc32.html\">RS-CNC32</a></h3>\n</figcaption>\n</figure>",
+            "author": {
+                "name": "RLI"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-24T17:07:15-04:00",
+            "date_modified": "2020-03-24T18:17:04-04:00"
+        },
+        {
+            "id": "https://rooklightindustries.github.io/shop/magazines.html",
+            "url": "https://rooklightindustries.github.io/shop/magazines.html",
+            "title": "Mags",
+            "summary": "Glock 17 Mag",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/2/Gen-5-Glock-Factory-Magazines_main-01.jpg\" width=\"300\" height=\"300\">\n<figcaption >\n<h2 id=\"mcetoc_1e474eae80\"><a href=\"https://rooklightindustries.github.io/shop/glock-17-magazine-10-round.html\">Glock 17 Mag</a></h2>\n</figcaption>\n</figure>",
+            "author": {
+                "name": "RLI"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-24T16:09:46-04:00",
+            "date_modified": "2020-03-24T18:17:16-04:00"
+        },
+        {
+            "id": "https://rooklightindustries.github.io/shop/glock-17-magazine-10-round.html",
+            "url": "https://rooklightindustries.github.io/shop/glock-17-magazine-10-round.html",
+            "title": "Glock 17 Mag",
+            "summary": "Rounds10ColorBlackMaterialPolymer",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-04.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-04-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-03.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-03-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-02.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-02-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-01.jpg\" ><img src=\"https://rooklightindustries.github.io/shop/media/posts/1/gallery/Gen-5-Glock-Factory-Magazines_main-01-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div>\n<hr>\n<table width=\"578\">\n<tbody>\n<tr>\n<td>Rounds</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Color</td>\n<td>Black</td>\n</tr>\n<tr>\n<td>Material</td>\n<td>Polymer</td>\n</tr>\n</tbody>\n</table>\n<p><img class=\"post__image\" src=\"https://rooklightindustries.github.io/shop/media/posts/1/button_checkout-now-1.png\" alt=\"\" width=\"329\" height=\"66\"></p>",
+            "author": {
+                "name": "RLI"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-24T16:05:03-04:00",
+            "date_modified": "2020-03-24T18:17:22-04:00"
+        }
+    ]
+}
